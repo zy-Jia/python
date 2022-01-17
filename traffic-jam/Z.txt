@@ -1,0 +1,6 @@
+['1100001xin1dian4lu4', '1100001xin1dian4lu4', '1100001xin1dian4lu4', '1100001xin1dian4lu4', '0']
+['1100001xin1dian4lu4', '1100001xin1dian4lu4', '1100001xin1dian4lu4', '1100001xin1dian4lu4', '0']
+['1100001xin1dian4lu4', '1100001xin1dian4lu4', '1100001xin1dian4lu4', '1100001xin1dian4lu4', '0']
+['1100001xin1dian4lu4', '1100001xin1dian4lu4', '1100001xin1dian4lu4', '1100001xin1dian4lu4', '0']
+['1100001xin1dian4lu4', '1100001xin1dian4lu4', '1100001xin1dian4lu4', '1100001xin1dian4lu4', '0']
+['1100001xin1dian4lu4', '1100001xin1dian4lu4', '0', '0', '0']
